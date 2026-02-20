@@ -1,8 +1,8 @@
 # Rondo
 
-**Club management software for Dutch amateur football clubs.**
+**Club management software for Dutch sports clubs that use Sportlink.**
 
-Rondo replaces fragmented spreadsheets, WhatsApp groups, and manual admin with a single platform built specifically for verenigingen. It integrates deeply with Sportlink (KNVB) and runs on a 100% European infrastructure stack.
+Rondo replaces fragmented spreadsheets, WhatsApp groups, and manual admin with a single platform built specifically for verenigingen. It integrates deeply with Sportlink and runs on a 100% European infrastructure stack.
 
 ## Repositories
 
